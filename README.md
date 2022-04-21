@@ -18,9 +18,3 @@ For a fully-fledged **React & Apollo tutorial**, visit [How to GraphQL](https://
 ### Commands
 
 * `yarn start` or `npm run start` starts GraphQL server on `http://localhost:4000`
-
-## Contributing
-
-The GraphQL boilerplates are maintained by the GraphQL community, with official support from the [Apollo](https://www.apollographql.com/) & [Prisma](https://www.prisma.io) teams.
-
-Your feedback is **very helpful**, please share your opinion and thoughts! If you have any questions or want to contribute yourself, join the `#graphql-boilerplate` channel on our [Slack](https://slack.prisma.io/).
